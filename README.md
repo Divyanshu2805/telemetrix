@@ -6,6 +6,14 @@ The repo also includes an **Arduino signal simulator** (`TelemetryV1.0.ino`) tha
 
 ---
 
+## Demo
+
+<video src="assets/demo.mp4" controls muted width="100%"></video>
+
+[Watch the demo video](assets/demo.mp4)
+
+---
+
 ## Features
 
 | Area | What it does |
