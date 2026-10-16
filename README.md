@@ -86,6 +86,7 @@ Example frame:
 | `TelemetryV1_0.pde` | The Processing dashboard: serial parsing, drawing, video and CSV logging. |
 | `TelemetryV1.0.ino` | Arduino simulator: reads 2 potentiometers (A0, A1) and emits 18-channel test frames. |
 | `sketch.properties` | Processing sketch metadata. |
+| `assets/demo.mp4` | Demo video of the dashboard, embedded at the top of this README. |
 
 ---
 
